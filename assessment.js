@@ -46,6 +46,7 @@ userNameInput.onkeydown = event=>{
 const answers = [
     '{userName}のいいところは声です。{userName}の特徴的な声はみんなを引きつけ、心に残ります。',
     '{userName}のいいいことろßは情熱です。{userName}の情熱に周りの人は感化されます。'
+    '{userName}のいいところは優しさです。あなたの優しい雰囲気や立ち振る舞いに多くの人が癒されています。'
 ];
 
 console.assert(
